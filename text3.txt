@@ -1,1 +1,2 @@
-text3.txt file created succsessfully
+text3.txt file created succeffully
+some changes are modified in this file.
